@@ -1,0 +1,25 @@
+{
+  "name": "js-coding-exercise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spencel/js-coding-exercise.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spencel/js-coding-exercise/issues"
+  },
+  "homepage": "https://github.com/spencel/js-coding-exercise#readme",
+  "dependencies": {
+    "angular": "^1.7.8",
+    "bootstrap": "^4.3.1",
+    "typescript": "^3.5.3"
+  }
+}
